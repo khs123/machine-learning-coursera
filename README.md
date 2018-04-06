@@ -1,1 +1,1 @@
-Implement programng exercise in Machine Learning - Andrew Ng
+Implement programing exercise in Machine Learning - Andrew Ng
